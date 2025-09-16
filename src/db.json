@@ -1,0 +1,95 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "title": "Gosht",
+      "description": "Das Essen ist nur im Afghanistan besondere im Hazaragi Essen.",
+      "video": "https://www.youtube.com/embed/2_sQY0fh12Y?si=PuR9TfiOWusZpRiV",
+      "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "category": "breakfast",
+      "time": "30",
+      "Ingredients": [
+        "ghosht 300g",
+        "slatz 5g ",
+        "öli 200ml",
+        "masla 200ml",
+        "Zwiebeln 100g",
+        "Tomaten 100g",
+        "Kartofeln 100g"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Sabzi",
+      "description": "Das Essen ist nur im Afghanistan besondere im Hazaragi Essen.",
+      "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "video": "https://www.youtube.com/embed/HSVBArL3V1A?si=1ZIVLuiqdC6i8UTY",
+      "category": "dinner",
+      "time": "30",
+      "Ingredients": [
+        "ghosht 600g",
+        "slatz 5g ",
+        "öli 200ml",
+        "masla 300ml",
+        "Zwiebeln 300g",
+        "Tomaten 500g",
+        "Kartofeln 100g"
+      ],
+      "recipi": []
+    },
+    {
+      "id": 3,
+      "title": "Sabzi",
+      "description": "Das Essen ist nur im Afghanistan besondere im Hazaragi Essen.",
+      "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "video": "https://www.youtube.com/embed/Wyt1bI8OVqk?si=tdaIbdOOHY1hozLB",
+      "category": "lunch",
+      "time": "30",
+      "Ingredients": [
+        "slatz 5g ",
+        "öli 200ml",
+        "masla 200ml",
+        "Zwiebeln 100g",
+        "Tomaten 200g",
+        "Kartofeln 600g"
+      ],
+      "recipi": []
+    },
+    {
+      "id": 4,
+      "title": "Sabzi",
+      "description": "Das Essen ist nur im Afghanistan besondere im Hazaragi Essen.",
+      "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "video": "https://www.youtube.com/embed/2_sQY0fh12Y?si=Im50EahZzIQ-3akG",
+      "category": "breakfast",
+      "time": "30",
+      "Ingredients": [
+        "käse 300g",
+        "öli 200ml",
+        "masla 200ml",
+        "Zwiebeln 100g",
+        "Tomaten 100g",
+        "Kartofeln 100g"
+      ],
+      "recipi": []
+    },
+    {
+      "id": 5,
+      "title": "Sabzi",
+      "description": "Das Essen ist nur im Afghanistan besondere im Hazaragi Essen.",
+      "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "video": "https://www.youtube.com/embed/kxxlicZP_1s?si=NhZuoC6fVx-UZe29",
+      "category": "dinner",
+      "time": "30",
+      "Ingredients": [
+        "slatz 5g ",
+        "öli 200ml",
+        "masla 200ml",
+        "Zwiebeln 100g",
+        "Tomaten 100g",
+        "Kartofeln 100g"
+      ],
+      "recipi": []
+    }
+  ]
+}
