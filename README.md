@@ -53,7 +53,6 @@
 src/
 ├── components/ # Reusable components (Navbar, Footer, Cards)
 ├── pages/ # Home.jsx, About.jsx, Login.jsx, Foods.jsx
-├── api/ # API logic (e.g., fetchRecipes.js)
 ├── App.jsx # Main app routing
 ├── main.jsx # Vite entry
 └── index.css # Tailwind and font imports
@@ -113,14 +112,3 @@ export async function getRecipes() {
 | 🌐 Public API       | Real-time recipe data              |
 | 🧪 Vite Environment | .env for secrets & keys            |
 
-📞 Contact
-
-Made with 🍳 by Alex Rivera
-
-🌐 Website: recipehub.com
-
-📧 Email: hello@recipehub.com
-
-🐦 Twitter: @alexcodes
-
-💼 LinkedIn: linkedin.com/in/alexrivera
