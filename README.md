@@ -1,6 +1,5 @@
 ![GitHub Repo Stars](https://img.shields.io/github/stars/JumaQasimiM/hzrfood?style=social)
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1512058564366-c9e3e0464c35" alt="Recipe Banner" style="width:100%; max-height:320px; object-fit:cover;" />
 
   <h1>🍲 RecipeHub — A Modern Cooking Experience</h1>
   <p><strong>Discover. Cook. Enjoy. A beautifully designed recipe platform built with React + Vite.</strong></p>
