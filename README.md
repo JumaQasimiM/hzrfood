@@ -1,8 +1,9 @@
 ![GitHub Repo Stars](https://img.shields.io/github/stars/JumaQasimiM/hzrfood?style=social)
+# demo https://hzrrecipe.netlify.app/
 <div align="center">
 
   <h1>🍲 RecipeHub — A Modern Cooking Experience</h1>
-  <p><strong>Discover. Cook. Enjoy. A beautifully designed recipe platform built with React + Vite.</strong></p>
+  <p>A Recipi website </p>
 
   <p>
     <a href="#features">✨ Features</a> |
